@@ -1,0 +1,7 @@
+venv/
+*png
+.DS_Store
+.idea/
+DelUndergradCourses/
+ExampleData/
+__pycache__/
