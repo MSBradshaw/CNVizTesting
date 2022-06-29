@@ -5,3 +5,4 @@ venv/
 DelUndergradCourses/
 ExampleData/
 __pycache__/
+capstone_plotter.py
